@@ -28,7 +28,7 @@ __All the functions have parameters (_exept cls_) which can be used to change th
 ____
 
 
-Source code available at [github](https://github.com/DevER-M/pyloading)
+[pypi](https://pypi.org/project/pyloading/1.0.0/) main page 
 
 *Pyloading uses:*
 * *itertools*
